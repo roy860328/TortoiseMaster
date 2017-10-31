@@ -1,3 +1,3 @@
 # TortoiseMaster
 
-Introduction to Computer Science LabⅠⅠ's final project
+Final project of course of Introduction to Computer Science LabⅠⅠ
